@@ -18,13 +18,12 @@ A code simplification agent that refines PHP / Laravel code for clarity, consist
 
 ## Installation
 
-Clone this repository and add the plugin to your Claude Code configuration:
+Add the marketplace and install the plugin:
 
-```bash
-claude plugins:add /path/to/laravel-claude-code/artisan-simplifier
 ```
-
-Or add it to your project's `.claude/plugins` configuration.
+/plugin marketplace add laravel/claude-code
+/plugin install artisan-simplifier@laravel
+```
 
 ## Usage
 
