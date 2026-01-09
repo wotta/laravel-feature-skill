@@ -27,10 +27,8 @@ Add the marketplace and install the plugin:
 
 ## Usage
 
-Once installed, invoke the code simplifier agent in Claude Code:
+Once installed, tell Claude Code to use the agent after a long coding session:
 
 ```
-/laravel-simplifier
+> Review recent changes using the laravel-simplifier agent
 ```
-
-The agent will analyze recently modified code and suggest refinements following Laravel best practices.
