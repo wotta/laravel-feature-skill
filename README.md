@@ -26,10 +26,10 @@ This plugin provides a systematic 7-phase approach to building Laravel features:
 Add the marketplace and install the plugin:
 
 ```
-/plugin marketplace add laravel/claude-code
+/plugin marketplace add wotta/laravel-feature-skill
 ```
 ```
-/plugin install laravel-simplifier@laravel
+/plugin install laravel-feature@wotta
 ```
 
 ## Usage
