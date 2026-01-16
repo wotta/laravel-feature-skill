@@ -1,0 +1,9 @@
+{
+    "name": "laravel-feature",
+    "version": "1.0.0",
+    "description": "A structured Laravel feature development workflow that combines Blueprint code generation, Filament admin resources, and the laravel-simplifier agent for rapid, consistent feature development.",
+    "author": {
+        "name": "Wouter van Marrum",
+        "email": "wouter.van.marrum@protonmail.com"
+    }
+}

@@ -1,21 +1,21 @@
 {
-  "name": "laravel",
+  "name": "wotta",
   "owner": {
-    "name": "Taylor Otwell",
-    "email": "taylor@laravel.com"
+    "name": "Wouter van Marrum",
+    "email": "wouter.van.marrum@protonmail.com"
   },
   "metadata": {
-    "description": "Claude Code plugins for PHP / Laravel development"
+    "description": "Claude Code plugins for PHP / Laravel / blueprint / filament development"
   },
   "plugins": [
     {
-      "name": "laravel-simplifier",
-      "source": "./laravel-simplifier",
-      "description": "Simplifies and refines PHP / Laravel code for clarity, consistency, and maintainability",
+      "name": "laravel-feature",
+      "source": "./laravel-feature",
+      "description": "A structured Laravel feature development workflow that combines Blueprint code generation, Filament admin resources, and the laravel-simplifier agent for rapid, consistent feature development.",
       "version": "1.0.0",
       "author": {
-        "name": "Taylor Otwell",
-        "email": "taylor@laravel.com"
+        "name": "Wouter van Marrum",
+        "email": "wouter.van.marrum@protonmail.com"
       },
       "category": "productivity"
     }
